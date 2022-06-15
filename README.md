@@ -1,11 +1,10 @@
-### Hi there 👋
-
 <!--
 **edniaj/edniaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-##Projects:
-1. NFT market 
+
+## Projects:
+1. NFT marketplace 
 place https://main--beastofburden.netlify.app/
 
 2. Job portal 
@@ -19,3 +18,5 @@ https://cranky-hermann-6c6365.netlify.app/
 - 👯 I’m looking to collaborate on blockchain related projects
 - 📫 How to reach me: https://www.linkedin.com/in/jian-deeee/
 
+### Main stack
+MERN + Postgresql
