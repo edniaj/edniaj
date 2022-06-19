@@ -14,8 +14,8 @@ https://tiny-hamster-468f0e.netlify.app/
 https://cranky-hermann-6c6365.netlify.app/
 
 
-- 🌱 I’m currently learning how to audit solidity smart contracts
-- 👯 I’m looking to collaborate on blockchain related projects
+- 🌱 I’m currently learning how to audit solidity smart contracts: https://github.com/edniaj/ethernaut_solutions
+- 👯 I’m looking for internships for any fullstack role. 
 - 📫 How to reach me: https://www.linkedin.com/in/jian-deeee/
 
 ### Main stack
