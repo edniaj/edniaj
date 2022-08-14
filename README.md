@@ -16,9 +16,7 @@ https://cranky-hermann-6c6365.netlify.app/
 ## Hobby
 ### Aug '22
 I'm current learning how to set up a web server + website on my raspberry PI 4.
-#### Roadmap
-Set up database (sql) on RPI4 -> Set up website (next.js) -> SEO optimization  
-Set up Docker + Jenkins on RPI4
+
 
 ### @ Jun '22
 I’m currently learning how to audit solidity smart contracts: https://github.com/edniaj/ethernaut_solutions
