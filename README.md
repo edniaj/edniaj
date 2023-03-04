@@ -1,9 +1,7 @@
 <!--
 **edniaj/edniaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-
-
-## Projects:
+<!-- ## Projects:
 1. NFT marketplace 
 place https://main--beastofburden.netlify.app/
 
@@ -24,3 +22,5 @@ I’m currently learning how to audit solidity smart contracts: https://github.c
 - 📫 How to reach me: https://www.linkedin.com/in/jian-deeee/
 
 
+ -->
+ hi
